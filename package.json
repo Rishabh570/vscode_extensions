@@ -1,0 +1,21 @@
+{
+    "name": "javascript-utils",
+    "displayName": "javascript utils",
+    "description": "Simple Javascript snippets for consoles and alert messages.",
+    "version": "1.0.0",
+    "publisher": "rishabh",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}

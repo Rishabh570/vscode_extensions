@@ -1,0 +1,12 @@
+{
+    "console log": {
+        "prefix": "cl",
+        "body": "console.log(${1})",
+        "description": "Creates console.log()"
+    },
+    "alert": {
+        "prefix": "alrt",
+        "body": "alert(${1})",
+        "description": "Creates alert()"
+    }
+}
